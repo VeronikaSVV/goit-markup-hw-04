@@ -176,6 +176,9 @@ ul {
 .button-solution:focus{
         background-color:#404bbf;
 }
+.icon-box{
+        margin-bottom: 8px;
+}
 
 /*-------section-features------*/
 
@@ -281,12 +284,12 @@ ul {
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        margin-bottom: 8px;
 }
 .icon-list {
         display: flex;
         gap: 24px;
         justify-content: center;
-        padding-bottom: 44px;
 }
 
 .icon-link {
@@ -432,7 +435,7 @@ ul {
 
 .footer-inner {
         display: flex;
-        align-items: flex-start;
+        align-items: baseline;
         gap: 120px;
 }
 
